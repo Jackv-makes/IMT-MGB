@@ -22,13 +22,13 @@ The board is available to be ordered through PCBWay. **Please remember to choose
 
 # Bill of Materials & Assembly
 
-To successfully build this board, it’s recommended to have a soldering iron, a hot air rework station, a quality solder sucker, and solder wick on hand. While I offer equipment suggestions on my website, the exact tools are flexible depending on your preference: [Recommended Tools](https://www.jackvmakes.com/guides/tools).
+To successfully build this board, it’s recommended to have a soldering iron, a hot air rework station, high quality flux, a quality solder sucker, and solder wick on hand. While I offer equipment suggestions on my website, the exact tools are flexible depending on your preference: [Recommended Tools](https://www.jackvmakes.com/guides/tools).
 
-As mentioned earlier, soldering is only part of the process. You’ll also need to troubleshoot any issues that arise, which requires familiarity with schematics and possibly the use of a multimeter. Fortunately, Gekkio's schematics provide all the information necessary for effective troubleshooting. Since this PCB utilizes original MGB components, diagnosing issues should be relatively straightforward. Transplanting components from an original MGB eliminates the need for additional purchases unless you’re concerned about the condition of the original parts. However, you will need to order two additional 0603 capacitors and the toggle switch itself to replace the contrast wheel. I’ve included a Bill of Materials (BOM) in case you lose a component or prefer to order new ones.
+As mentioned earlier, soldering is only part of the process. You’ll also need to troubleshoot any issues that arise, which requires familiarity with schematics and possibly the use of a multimeter. Fortunately, Gekkio's schematics provide all the information necessary for effective troubleshooting. Since this PCB utilizes original MGB components, diagnosing issues should be relatively straightforward. Transplanting components from an original MGB eliminates the need for additional purchases unless you’re concerned about the condition of the original parts. However, you will need to order two additional 0603 capacitors and the toggle switch itself replaces the contrast wheel. I’ve included a Bill of Materials (BOM) in case you lose a component or prefer to order new ones.
 
 # LCD Kits
 
-Any LCD kit that is made to be used with the MGB should work. The ones I've tested are kits from:
+Since the pcb was made to use aftermarket LCD kits, the OEM LCD will no longer function on this board. You can use any LCD kit that is made to be used with the MGB. The ones I've tested are kits from:
 
 - Hispeedido
 - Cloud Game Store
@@ -39,7 +39,7 @@ All these kits are available from [RetroGameRepairShop.com](https://retrogamerep
 # Power Regulators
 
 This board is compatible with multiple power regulators, including the OEM regulator or various aftermarket options such as The Frogulator, Bucket Mouse's PMPB, Marshallh's GBPP, my POG regulators, or Skimzor's SZ-REG.
-Note: I have not tested any USB-C regulators, so I cannot guarantee their compatibility. However, since this board follows the same design as the OEM MGB, I don't anticipate any issues.
+**Note: I have not tested any USB-C regulators, so I cannot guarantee their compatibility. However, since this board follows the same design as the OEM MGB, I don't anticipate any issues.**
 
 # Credit and Thanks
 
