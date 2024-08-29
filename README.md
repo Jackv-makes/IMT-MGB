@@ -54,10 +54,9 @@ https://github.com/nataliethenerd/
 https://github.com/ConsolesandCasks/
 
 
-
-
-
 # License
+
+**Please note that I DO ALLOW these boards to be sold if it is fully assembled by the seller. The sale of unassebled PCBs or kits based on this design is strictly prohibited.**
 
  [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
  
