@@ -49,11 +49,11 @@ Huge thanks to multiple people for making this possible. Gekkio for doing the ha
 
 Please check out their Githubs and projects:
 
-https://github.com/Gekkio/
-https://github.com/MouseBiteLabs
-https://github.com/skimzor/
-https://github.com/nataliethenerd/
-https://github.com/ConsolesandCasks/
+- https://github.com/Gekkio/
+- https://github.com/MouseBiteLabs
+- https://github.com/skimzor/
+- https://github.com/nataliethenerd/
+- https://github.com/ConsolesandCasks/
 
 
 # License
