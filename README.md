@@ -1,4 +1,6 @@
 # IMT-MGB PCB
+![imt1](https://github.com/user-attachments/assets/0e3b3b52-6a08-4087-a96b-0f164a136c67)![imt22](https://github.com/user-attachments/assets/2e60b512-26d9-40e2-8688-bcc73470bc61)
+
 
 This is a MGB(Game Boy Pocket) replacement board. This board is made to be used with only backlit LCD kits and does not include the components or voltages that are required for the OEM display. The board uses most of the components from an original MGB board and omits a few. The only new components you will need are 2x 27pF capacitors and a toggle switch to replace the contrast wheel. This was made in KiCad using gekkio's reverse-engineered [MGB schematics](https://github.com/Gekkio/gb-schematics/tree/main/MGB-xCPU). 
 
