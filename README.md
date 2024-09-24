@@ -20,7 +20,7 @@ If you do come across an actual issue or have any suggestions you'd like to make
 
 # Ordering
 
-The board is available to be ordered through PCBWay. **Please remember to choose 1mm as the thickness and ENIG for the finish. If you are planning on using tactile switches, HASL will work.**
+The board will be available to be ordered through PCBWay soon. **Please remember to choose 1mm as the thickness and ENIG for the finish. If you are planning on using tactile switches, HASL will work.**
 
 # Bill of Materials & Assembly
 
