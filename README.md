@@ -12,7 +12,7 @@ This is a MGB(Game Boy Pocket) replacement board. This board is made to be used 
 - A few other minor changes and add-ons
 ![imt1](https://github.com/user-attachments/assets/0e3b3b52-6a08-4087-a96b-0f164a136c67)
 # Disclaimer
-This board is designed with ample spacing between components to make soldering easier. However, if you lack experience with SMD (Surface-Mount Device) soldering, you risk damaging your components or Game Boy. I strongly recommend acquiring an SMD soldering kit and practicing beforehand if you're not already proficient.
+This board is designed with ample spacing between components to make soldering easier. However, if you lack experience with SMD (Surface-Mount Device) soldering, you risk damaging your components and/or Game Boy. I strongly recommend acquiring an SMD soldering kit and practicing beforehand if you're not already proficient.
 
 Soldering these components is just one part of the process; you’ll also need a solid understanding of schematics for troubleshooting. While I have successfully built five of these using different MGB boards, I cannot guarantee compatibility with every MGB board due to the many variables involved. I’m not obligated to assist with debugging or troubleshooting, and will only do so at my discretion. Fortunately, there is a wealth of documentation and resources available that can help resolve the majority of issues you might encounter.
 
