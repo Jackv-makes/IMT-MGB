@@ -24,7 +24,8 @@ If you do come across an actual issue or have any suggestions you'd like to make
 
 The board will be available to be ordered through PCBWay soon. **Please remember to choose 1mm as the thickness and ENIG for the finish. If you are planning on using tactile switches, HASL will work.**
 
-They are available on my Ko-Fi:
+These are available on my Ko-Fi Shop:
+
 [Ko-Fi Shop](https://ko-fi.com/s/7becb96598)
 
 # Bill of Materials & Assembly
