@@ -24,6 +24,9 @@ If you do come across an actual issue or have any suggestions you'd like to make
 
 The board will be available to be ordered through PCBWay soon. **Please remember to choose 1mm as the thickness and ENIG for the finish. If you are planning on using tactile switches, HASL will work.**
 
+They are available on my Ko-Fi:
+[Ko-Fi Shop](https://ko-fi.com/s/7becb96598)
+
 # Bill of Materials & Assembly
 
 To successfully build this board, it’s recommended to have a soldering iron, a hot air rework station, high quality flux, a quality solder sucker, and solder wick on hand. While I offer equipment suggestions on my website, the exact tools are flexible depending on your preference: [Recommended Tools](https://www.jackvmakes.com/guides/tools). Assembling this board is slightly less challenging than something like the MGBC, which involves fine-pitched components like the CPU and LCD ribbon connector. If you're aiming to tackle a project like that in the future, this would be a good starting point. However, I can't assess your skill level or soldering proficiency, so please take the necessary precautions to avoid damaging your board or hurting yourself.
