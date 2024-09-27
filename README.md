@@ -35,6 +35,10 @@ To successfully build this board, it’s recommended to have a soldering iron, a
 
 As mentioned earlier, soldering is only part of the process. You’ll also need to troubleshoot any issues that arise, which requires familiarity with schematics and possibly the use of a multimeter. Fortunately, Gekkio's schematics provide all the information necessary for effective troubleshooting. Since this PCB utilizes original MGB components, diagnosing issues should be relatively straightforward. Transplanting components from an original MGB eliminates the need for additional purchases unless you’re concerned about the condition of the original parts. However, you will need to order two additional 0603 capacitors and the toggle switch itself which replaces the contrast wheel. I’ve included a Bill of Materials (BOM) in case you lose a component or prefer to order new ones.
 
+# Toggle Switch Features
+
+The toggle switch replaces the contrast wheel and has some neat functions. Display kits with a Color Palette and Brightness functions can be soldered to the Up and Down pads on the board to control those functions with the toggle switch. If you are using a kit that only has one function, you can solder to either the Up or Down pad and solder the Bridge pad to enable you to use that function whether you flick the toggle switch up or down. I also added the feature to allow the toggle switch to reset the Gameboy when you push it in, I took the idea from Bucket Mouse's MGBC board and find it extremely useful. To activate that feature, you will need to bridge the Reset pad on the board.
+
 The only extra parts you will need are for the new toggle switch. This includes 2x 0603 27pF ceramic capacitors and 1x COM-08184 toggle switch. I've included links below:
 
 [1x COM-08184 toggle switch](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-08184/8543391)
