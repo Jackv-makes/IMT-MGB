@@ -38,6 +38,7 @@ As mentioned earlier, soldering is only part of the process. You’ll also need 
 The only extra parts you will need are for the new toggle switch. This includes 2x 0603 27pF capacitors and 1x COM-08184 toggle switch. I've included links below:
 
 [1x COM-08184 toggle switch](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-08184/8543391)
+
 [2x 0603 27pF Capacitors](https://www.digikey.com/en/products/detail/kemet/C0603C270J5GAC7867/411056)
 
 
