@@ -10,8 +10,9 @@ This is a MGB(Game Boy Pocket) replacement board. This board is made to be used 
 - New toggle switch in place of the old contrast wheel
 - New convenient soldering pads for: A, B, Select, Battery
 - A few other minor changes and add-ons
-- 
-![imt1](https://github.com/user-attachments/assets/0e3b3b52-6a08-4087-a96b-0f164a136c67)
+  
+![IMT_MGB1](https://github.com/user-attachments/assets/29cb5c59-582d-456a-a7fb-fdefb048faff)
+
 
 # Disclaimer
 This board is designed with ample spacing between components to make soldering easier. However, if you lack experience with SMD (Surface-Mount Device) soldering, you risk damaging your components and/or Game Boy. I strongly recommend acquiring an SMD soldering kit and practicing beforehand if you're not already proficient.
