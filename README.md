@@ -35,6 +35,12 @@ To successfully build this board, it’s recommended to have a soldering iron, a
 
 As mentioned earlier, soldering is only part of the process. You’ll also need to troubleshoot any issues that arise, which requires familiarity with schematics and possibly the use of a multimeter. Fortunately, Gekkio's schematics provide all the information necessary for effective troubleshooting. Since this PCB utilizes original MGB components, diagnosing issues should be relatively straightforward. Transplanting components from an original MGB eliminates the need for additional purchases unless you’re concerned about the condition of the original parts. However, you will need to order two additional 0603 capacitors and the toggle switch itself which replaces the contrast wheel. I’ve included a Bill of Materials (BOM) in case you lose a component or prefer to order new ones.
 
+The only extra parts you will need are for the new toggle switch. This includes 2x 0603 27pF capacitors and 1x COM-08184 toggle switch. I've included links below:
+
+[1x COM-08184 toggle switch](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-08184/8543391)
+[2x 0603 27pF Capacitors](https://www.digikey.com/en/products/detail/kemet/C0603C270J5GAC7867/411056)
+
+
 # LCD Kits
 
 Since the pcb was made to use aftermarket LCD kits, the OEM LCD will no longer function on this board. You can use any LCD kit that is made to be used with the MGB. The ones I've tested are kits from:
