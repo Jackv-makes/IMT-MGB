@@ -23,7 +23,10 @@ If you do come across an actual issue or have any suggestions you'd like to make
 
 # Ordering
 
-The board will be available to be ordered through PCBWay soon. **Please remember to choose 1mm as the thickness and ENIG for the finish. If you are planning on using tactile switches, HASL will work.**
+The board are available to be ordered from PCBWay:
+[PCBWay Shared Project](https://www.pcbway.com/project/shareproject/IMT_MGB_Game_Boy_Pocket_17ee2181.html)
+
+**Please remember to choose 1mm as the thickness and ENIG for the finish. If you are planning on using tactile switches, HASL will work.**
 
 These are available on my Ko-Fi Shop:
 
